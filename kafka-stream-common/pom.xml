@@ -18,6 +18,11 @@
         </dependency>
 
         <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+        </dependency>
+
+        <dependency>
             <groupId>me.yuanbin</groupId>
             <artifactId>zeus-jdk-common</artifactId>
         </dependency>
