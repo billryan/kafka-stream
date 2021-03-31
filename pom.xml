@@ -21,7 +21,7 @@
         <junit.version>4.12</junit.version>
         <redisson.version>3.10.2</redisson.version>
         <typesafe.config.version>1.3.3</typesafe.config.version>
-        <guava.version>27.0.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <zeus.jdk.common.version>0.0.3-SNAPSHOT</zeus.jdk.common.version>
         <kafka.stream.common.version>1.0.0-SNAPSHOT</kafka.stream.common.version>
     </properties>
